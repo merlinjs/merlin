@@ -1,0 +1,14 @@
+{
+    "name": "merlin",
+    "version": "1.0.0",
+    "description": "Symbolic math at it's finest",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "webpack": "^4.41.0"
+    }
+}
